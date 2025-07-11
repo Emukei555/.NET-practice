@@ -1,2 +1,0 @@
-# .NET-practice
-.NET practice
