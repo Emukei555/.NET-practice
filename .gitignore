@@ -1,0 +1,33 @@
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.app
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Avalonia Designer
+Avalonia.DesignerSupport/
