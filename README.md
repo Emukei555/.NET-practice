@@ -1,6 +1,6 @@
 # TodoApp (.NET + Avalonia UI)
 
-シンプルでクロスプラットフォームな ToDo アプリです。Avalonia UI を使用し、Windows / macOS / Linux で動作します。
+かなりシンプルなテンプレート
 
 ## 🚀 実行方法
 
@@ -23,3 +23,4 @@ C#
 │   ├── MainWindow.axaml / .cs
 │   ├── bin/ （除外済み）
 │   ├── obj/ （除外済み）
+
